@@ -19,7 +19,7 @@
 
 ## Links
 
-- Live Site URL: [stats-preview-card-component-brijen.vercel.app](stats-preview-card-component-brijen.vercel.app)
+- Live Site URL: [stats-preview-card-component-brijen.vercel.app](https://stats-preview-card-component-brijen.vercel.app)
 
 ## Built with
 
